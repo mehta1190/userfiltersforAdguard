@@ -1,0 +1,119 @@
+! 06/10/2019 https://m.timesofindia.com
+m.timesofindia.com###getapp
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > ._38kVl > ._3JRp7 > ._1Rokh
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .e3Qsw._2SdDG
+
+! 06/10/2019 https://www.indiatoday.in
+www.indiatoday.in##.inline-story-add
+www.indiatoday.in##.text-app-download
+||feeds.intoday.in/newsletter/display_form.php$subdocument
+www.indiatoday.in###txt_audio
+
+! 06/10/2019 https://www.news18.com
+www.news18.com##.geta-app
+www.news18.com##.ad-cntainer
+
+! 06/10/2019 https://gadgets.ndtv.com
+gadgets.ndtv.com###tbl-next-up
+gadgets.ndtv.com###mid_ad_1
+gadgets.ndtv.com###mid_ad_2
+gadgets.ndtv.com###mid_ad_3
+
+! 06/10/2019 https://www.thehindu.com
+www.thehindu.com##.hidden-lg.hidden-md.hidden-sm.mobileadsubentry
+
+! 06/10/2019 https://zeenews.india.com
+||zeenews.india.com/live-tv/embed$subdocument
+zeenews.india.com##.bannertophead-ab
+zeenews.india.com##.video-wrap
+zeenews.india.com###get-app2
+||english.cdn.zeenews.com/images/newsletter-envelop.gif$image
+zeenews.india.com##.newsletterstick.newsletterbpox
+
+! 06/10/2019 https://www.moneycontrol.com
+www.moneycontrol.com###_w18_noti_div
+www.moneycontrol.com##.show-mobile.app_btn_container
+www.moneycontrol.com###getAppModel
+www.moneycontrol.com##.fixedfortopwrap.show-moblie
+
+! 06/10/2019 https://m.businesstoday.in
+m.businesstoday.in###txt_audio
+m.businesstoday.in##.bt_socials
+m.businesstoday.in##.hidegap.mainBorromSliderSec
+
+! 06/10/2019 https://www.ndtv.com
+www.ndtv.com##.static_txt
+www.ndtv.com##.story_ft-nav
+
+! 06/10/2019 https://m.jagran.com
+m.jagran.com###next-stories
+
+! 06/10/2019 https://www.firstpost.com
+www.firstpost.com##.flying_carpet_ads.mb-5.mt-5.add-section
+
+! 06/10/2019 https://m.telegraphindia.com
+m.telegraphindia.com##body > .add-full-long
+
+! 06/10/2019 https://yourstory.com
+yourstory.com##.hmxUjQ.sc-cIShpX
+yourstory.com##.hiWTBx.sc-fYxtnH.sc-EHOje
+
+! 06/10/2019 https://www.indiatvnews.com
+www.indiatvnews.com##.row.article > .mb10.ad.row
+www.indiatvnews.com##.mb10.mt10.ad.row
+
+! 06/10/2019 https://m.mensxp.com
+m.mensxp.com##.cf.article-bottom-strip
+m.mensxp.com###cart
+m.mensxp.com##[href^="https://shop.mensxp.com/mens-grooming-kit/manbox-3"]
+
+! 06/10/2019 https://www.forbes.com
+www.forbes.com##.amp-player
+
+! 06/10/2019 https://www.thehindubusinessline.com
+www.thehindubusinessline.com##.entrySubs
+www.thehindubusinessline.com###mobilesubscripe
+
+! 06/10/2019 https://foreignpolicy.com
+foreignpolicy.com##.FP-mobile-ad_enabled.FP-mobile-ad_fixedbottom.FP-mobile-ad
+
+! 06/10/2019 https://www.theguardian.com
+www.theguardian.com##.hide-until-mobile.new-header__cta-bar
+www.theguardian.com##.u-cf.colophon
+
+! 06/10/2019 https://navbharattimes.indiatimes.com
+navbharattimes.indiatimes.com##.app_download
+navbharattimes.indiatimes.com##.btn_openinapp
+navbharattimes.indiatimes.com##.apna_bazaar_header
+navbharattimes.indiatimes.com###HmQWglte > div > div
+navbharattimes.indiatimes.com##.story-content.undefined > .esicon
+navbharattimes.indiatimes.com###\37 1466683 > .story-article.undefined > .amz.box-content
+navbharattimes.indiatimes.com###\37 1466683 > .story-article.undefined > .con_fbapplinks
+navbharattimes.indiatimes.com##div:nth-of-type(n) > .esicon
+
+! 06/10/2019 https://thewire.in
+||plugin.orcsnet.com/$subdocument
+thewire.in###\34 02910 > .postComplete__post-content-wrapper > .l9.m9.s12.col > .postComplete__orcsnet.m10.s12.col
+
+! 07/10/2019 https://www.accuweather.com
+www.accuweather.com##.pvhczca98j8s
+
+! 07/10/2019 https://scroll.in
+scroll.in##.fixedsticky-on.hideOnApp.hide-for-large.fixedsticky.share-bar-mobile
+
+! 07/10/2019 https://vanced.app
+vanced.app###cookieConsent
+
+! 08/10/2019 https://www.irctc.co.in
+www.irctc.co.in###corover-cb-widget
+
+! 08/10/2019 https://m.economictimes.com
+m.economictimes.com##.flr.bold.getApp
+m.economictimes.com##.appIcon
+
+! 11/10/2019 https://m.economictimes.com
+m.economictimes.com##.flr.viewApp
+m.economictimes.com##.budgetCube
+
+! 12/10/2019 https://m.timesofindia.com
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .xU6H_
