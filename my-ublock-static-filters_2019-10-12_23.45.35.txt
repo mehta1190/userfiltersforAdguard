@@ -117,3 +117,13 @@ m.economictimes.com##.budgetCube
 
 ! 12/10/2019 https://m.timesofindia.com
 m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .xU6H_
+
+! 13/10/2019 https://m.timesofindia.com
+m.timesofindia.com##.getapp
+m.timesofindia.com##.ctaopenapp
+
+! 13/10/2019 https://www.moneycontrol.com
+www.moneycontrol.com###article-main > [href="https://www.moneycontrol.com/promos/pro.php"]
+
+! 19/10/2019 https://m.timesofindia.com
+m.timesofindia.com##div.articlepage.main_dpygrid:nth-of-type(n) > .twocolum > .col_box1 > .clearfix.as_article > .clearfix.article_content > .js-india-only.ATFPos.version2.grid-list.amazongn_box.gn-affiliate-box
