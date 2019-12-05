@@ -158,11 +158,13 @@ www.bloombergquint.com##.share-toggle-module__share-button-top__1M_aL
 ! 29/11/2019 https://indianexpress.com
 indianexpress.com##.app-btn
 
+! 30/11/2019 https://m.timesofindia.com
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .clearfix.ctn-workaround-div
+
 ! 03/12/2019 https://m.timesofindia.com
 ||m.timesofindia.com/etcommon_cube.cms$subdocument
 
 ! 03/12/2019 https://www.news18.com
 www.news18.com###jiosaavn-widget
 
-! 30/11/2019 https://m.timesofindia.com
-m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .clearfix.ctn-workaround-div
+
