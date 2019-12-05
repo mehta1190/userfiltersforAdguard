@@ -163,3 +163,6 @@ indianexpress.com##.app-btn
 
 ! 03/12/2019 https://www.news18.com
 www.news18.com###jiosaavn-widget
+
+! 30/11/2019 https://m.timesofindia.com
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .clearfix.ctn-workaround-div
