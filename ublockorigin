@@ -127,3 +127,39 @@ www.moneycontrol.com###article-main > [href="https://www.moneycontrol.com/promos
 
 ! 19/10/2019 https://m.timesofindia.com
 m.timesofindia.com##div.articlepage.main_dpygrid:nth-of-type(n) > .twocolum > .col_box1 > .clearfix.as_article > .clearfix.article_content > .js-india-only.ATFPos.version2.grid-list.amazongn_box.gn-affiliate-box
+
+! 24/10/2019 https://yourstory.com
+yourstory.com##.iWwLlH.sc-cZBZkQ.sc-EHOje
+yourstory.com##.bSBmKC.sc-fYxtnH
+
+! 27/10/2019 https://wap.business-standard.com
+wap.business-standard.com###first_ad_bs
+
+! 28/10/2019 https://www.bloombergquint.com
+www.bloombergquint.com##.paywall-meter-module__story-paywall-container__1UgCE
+
+! 05/11/2019 https://m.economictimes.com
+m.economictimes.com###wapFooter
+
+! 07/11/2019 https://thediplomat.com
+thediplomat.com###td-share-bar
+
+! 10/11/2019 https://www.news18.com
+www.news18.com##.getapp_wrap
+www.news18.com##.mob_getapp
+
+! 12/11/2019 https://m.timesofindia.com
+m.timesofindia.com##div.visited.clearfix.articlepage:nth-of-type(n) > .article_outer > .grid-list.shop.amz-box
+m.timesofindia.com##div.clearfix.articlepage:nth-of-type(n) > .article_outer > .grid-list.shop.amz-box
+
+! 20/11/2019 https://www.bloombergquint.com
+www.bloombergquint.com##.share-toggle-module__share-button-top__1M_aL
+
+! 29/11/2019 https://indianexpress.com
+indianexpress.com##.app-btn
+
+! 03/12/2019 https://m.timesofindia.com
+||m.timesofindia.com/etcommon_cube.cms$subdocument
+
+! 03/12/2019 https://www.news18.com
+www.news18.com###jiosaavn-widget
