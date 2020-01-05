@@ -1,27 +1,29 @@
 ! 06/10/2019 https://m.timesofindia.com
 m.timesofindia.com###getapp
+m.timesofindia.com###social
+m.timesofindia.com##.openinapp_cont
+m.timesofindia.com##.getapp
+m.timesofindia.com##.ctaopenapp
+m.timesofindia.com###adFreeNudge
+m.timesofindia.com##.openinappvideos
+m.timesofindia.com##.location_detect_boxn1
+m.timesofindia.com##.location_detect_box_overlay
+||m.timesofindia.com/etcommon_cube.cms$subdocument
 m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > ._38kVl > ._3JRp7 > ._1Rokh
 m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .e3Qsw._2SdDG
 m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .clearfix.ctn-workaround-div
-||m.timesofindia.com/etcommon_cube.cms$subdocument
 m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .xU6H_
-m.timesofindia.com##.getapp
-m.timesofindia.com##.ctaopenapp
 m.timesofindia.com##div.articlepage.main_dpygrid:nth-of-type(n) > .twocolum > .col_box1 > .clearfix.as_article > .clearfix.article_content > .js-india-only.ATFPos.version2.grid-list.amazongn_box.gn-affiliate-box
 m.timesofindia.com##div.visited.clearfix.articlepage:nth-of-type(n) > .article_outer > .grid-list.shop.amz-box
 m.timesofindia.com##div.clearfix.articlepage:nth-of-type(n) > .article_outer > .grid-list.shop.amz-box
 m.timesofindia.com##div._2Ndzu:nth-of-type(4)
-m.timesofindia.com##.location_detect_boxn1
-m.timesofindia.com##.location_detect_box_overlay
-m.timesofindia.com##.openinappvideos
 m.timesofindia.com##.ITdKg._2wcoe.sPtQv
 m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .ITdKg._234nV
-||timesofindia.indiatimes.com/ad_free_nudge_text.cms$subdocument
 m.timesofindia.com##.XuJKh._2e4Dx._2Uge1.iframe_css
-m.timesofindia.com###adFreeNudge
 
 ! 13/12/2019 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##._3Ezwx
+||timesofindia.indiatimes.com/ad_free_nudge_text.cms$subdocument
 
 ! 06/10/2019 https://navbharattimes.indiatimes.com
 navbharattimes.indiatimes.com##.app_download
@@ -32,13 +34,12 @@ navbharattimes.indiatimes.com##.story-content.undefined > .esicon
 navbharattimes.indiatimes.com###\37 1466683 > .story-article.undefined > .amz.box-content
 navbharattimes.indiatimes.com###\37 1466683 > .story-article.undefined > .con_fbapplinks
 navbharattimes.indiatimes.com##div:nth-of-type(n) > .esicon
-||malayalam.samayam.com/off-url-forward/amazon_widget.cms$subdocument
 
 ! 06/10/2019 https://www.indiatoday.in
 www.indiatoday.in##.inline-story-add
 www.indiatoday.in##.text-app-download
-||feeds.intoday.in/newsletter/display_form.php$subdocument
 www.indiatoday.in###txt_audio
+||feeds.intoday.in/newsletter/display_form.php$subdocument
 
 ! 06/10/2019 https://www.news18.com
 www.news18.com##.geta-app
@@ -59,6 +60,8 @@ gadgets.ndtv.com###mid_ad_3
 
 ! 21/12/2019 https://khabar.ndtv.com
 khabar.ndtv.com##.story_ft-nav
+khabar.ndtv.com###tbl-next-up
+khabar.ndtv.com###android
 
 ! 29/11/2019 https://indianexpress.com
 indianexpress.com##.app-btn
@@ -71,6 +74,11 @@ m.economictimes.com##.flr.viewApp
 m.economictimes.com##.budgetCube
 m.economictimes.com###wapFooter
 m.economictimes.com###footer_banner
+
+! 27/12/2019 https://www.livemint.com
+www.livemint.com##.marqueeTicker.marketStat.cardHolder
+||www.livemint.com/images/advertisement.svg$image
+www.livemint.com###pushDownAd
 
 ! 06/10/2019 https://www.moneycontrol.com
 www.moneycontrol.com###_w18_noti_div
@@ -118,6 +126,9 @@ www.dnaindia.com##.video-wrap
 ! 06/10/2019 https://m.jagran.com
 m.jagran.com###next-stories
 
+! 27/12/2019 https://m.aajtak.in
+m.aajtak.in###txt_audio
+
 ! 06/10/2019 https://www.indiatvnews.com
 www.indiatvnews.com##.row.article > .mb10.ad.row
 www.indiatvnews.com##.mb10.mt10.ad.row
@@ -133,8 +144,11 @@ yourstory.com##.bSBmKC.sc-fYxtnH
 yourstory.com##.hiWTBx.sc-fYxtnH.sc-EHOje
 yourstory.com##.ASlyj.sc-izvnbC.sc-EHOje
 yourstory.com##.TSZrE.sc-ghsgMZ
-||yourstory.com/icons/ic_clap.svg$image
 yourstory.com##.hmxUjQ.sc-cIShpX
+||yourstory.com/icons/ic_clap.svg$image
+
+! 28/12/2019 https://www.bloomberg.com
+www.bloomberg.com###box-iOEvhEe
 
 ! 06/10/2019 https://www.forbes.com
 www.forbes.com##.amp-player
@@ -151,6 +165,14 @@ www.theguardian.com##.u-cf.colophon
 
 ! 06/10/2019 https://m.telegraphindia.com
 m.telegraphindia.com##body > .add-full-long
+
+! 28/12/2019 https://www.scmp.com
+www.scmp.com##.mobile-wide-ad-container-1.wrapper__mobile-wide-ad-container-1
+www.scmp.com##.inline-ad-1.inline-ad-container
+www.scmp.com##.inline-ad-2.inline-ad-container
+www.scmp.com##.inline-ad-1.collapsed.inline-ad-container
+www.scmp.com##.article--first.article.generic-article > .wrapper.article__wrapper > .mobile-wide-ad-container-1.wrapper__mobile-wide-ad-container-1
+www.scmp.com##.article--last.article.opinion-article > .wrapper.article__wrapper > .mobile-wide-ad-container-1.wrapper__mobile-wide-ad-container-1
 
 ! 06/10/2019 https://thewire.in
 ||plugin.orcsnet.com/$subdocument
