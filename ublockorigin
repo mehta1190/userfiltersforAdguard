@@ -7,19 +7,23 @@ m.timesofindia.com##.UTMCz
 m.timesofindia.com##.ctaopenapp
 m.timesofindia.com###adFreeNudge
 m.timesofindia.com##.openinappvideos
+m.timesofindia.com##.selectCity
+m.timesofindia.com###noad-freetrial
 m.timesofindia.com##.location_detect_boxn1
 m.timesofindia.com##.location_detect_box_overlay
 ||m.timesofindia.com/etcommon_cube.cms$subdocument
+m.timesofindia.com##.adDiv.AQ87t._19Lts
 m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > ._38kVl > ._3JRp7 > ._1Rokh
 m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .e3Qsw._2SdDG
 m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .clearfix.ctn-workaround-div
 m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .xU6H_
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .bannerwrapper > .remove-ad-btn
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .ITdKg._234nV
 m.timesofindia.com##div.articlepage.main_dpygrid:nth-of-type(n) > .twocolum > .col_box1 > .clearfix.as_article > .clearfix.article_content > .js-india-only.ATFPos.version2.grid-list.amazongn_box.gn-affiliate-box
 m.timesofindia.com##div.visited.clearfix.articlepage:nth-of-type(n) > .article_outer > .grid-list.shop.amz-box
 m.timesofindia.com##div.clearfix.articlepage:nth-of-type(n) > .article_outer > .grid-list.shop.amz-box
 m.timesofindia.com##div._2Ndzu:nth-of-type(4)
 m.timesofindia.com##.ITdKg._2wcoe.sPtQv
-m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .ITdKg._234nV
 m.timesofindia.com##.XuJKh._2e4Dx._2Uge1.iframe_css
 
 ! 13/12/2019 https://timesofindia.indiatimes.com
@@ -40,6 +44,7 @@ navbharattimes.indiatimes.com##div:nth-of-type(n) > .esicon
 www.indiatoday.in##.inline-story-add
 www.indiatoday.in##.text-app-download
 www.indiatoday.in###txt_audio
+www.indiatoday.in##.showGototop.goToTop
 ||feeds.intoday.in/newsletter/display_form.php$subdocument
 
 ! 06/10/2019 https://www.news18.com
@@ -119,6 +124,10 @@ zeenews.india.com##.video-wrap
 zeenews.india.com###get-app2
 ||english.cdn.zeenews.com/images/newsletter-envelop.gif$image
 zeenews.india.com##.newsletterstick.newsletterbpox
+
+! 19/01/2020 https://swarajyamag.com
+swarajyamag.com##.swarajya-nsubscribe
+swarajyamag.com##.home-page-foot-subcribe-mobile
 
 ! 22/12/2019 https://www.dnaindia.com
 ||www.dnaindia.com/live-tv/embed$subdocument
