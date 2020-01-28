@@ -22,12 +22,18 @@ m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearf
 m.timesofindia.com##div.articlepage.main_dpygrid:nth-of-type(n) > .twocolum > .col_box1 > .clearfix.as_article > .clearfix.article_content > .js-india-only.ATFPos.version2.grid-list.amazongn_box.gn-affiliate-box
 m.timesofindia.com##div.visited.clearfix.articlepage:nth-of-type(n) > .article_outer > .grid-list.shop.amz-box
 m.timesofindia.com##div.clearfix.articlepage:nth-of-type(n) > .article_outer > .grid-list.shop.amz-box
+m.timesofindia.com##div.visited.clearfix.articlepage:nth-of-type(n) > .article_outer > .readstory_offline
 m.timesofindia.com##div._2Ndzu:nth-of-type(4)
 m.timesofindia.com##.ITdKg._2wcoe.sPtQv
 m.timesofindia.com##.XuJKh._2e4Dx._2Uge1.iframe_css
 
 ! 13/12/2019 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##._3Ezwx
+timesofindia.indiatimes.com##a.UTMCz
+timesofindia.indiatimes.com##._25VUP.UTMCz
+timesofindia.indiatimes.com##._2aH55.BcqXN
+timesofindia.indiatimes.com##.social-widget-mob-parent._1Rokh
+timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > ._38kVl > ._3JRp7 > ._1Rokh
 ||timesofindia.indiatimes.com/ad_free_nudge_text.cms$subdocument
 
 ! 06/10/2019 https://navbharattimes.indiatimes.com
@@ -45,6 +51,7 @@ www.indiatoday.in##.inline-story-add
 www.indiatoday.in##.text-app-download
 www.indiatoday.in###txt_audio
 www.indiatoday.in##.showGototop.goToTop
+www.indiatoday.in##.story-header-ad
 ||feeds.intoday.in/newsletter/display_form.php$subdocument
 
 ! 06/10/2019 https://www.news18.com
@@ -57,6 +64,8 @@ www.news18.com###jiosaavn-widget
 ! 06/10/2019 https://www.ndtv.com
 www.ndtv.com##.static_txt
 www.ndtv.com##.story_ft-nav
+www.ndtv.com##.tele-wrap
+www.ndtv.com##.static-txt-promo
 
 ! 06/10/2019 https://gadgets.ndtv.com
 gadgets.ndtv.com###tbl-next-up
@@ -80,6 +89,7 @@ m.economictimes.com##.flr.viewApp
 m.economictimes.com##.budgetCube
 m.economictimes.com###wapFooter
 m.economictimes.com###footer_banner
+m.economictimes.com###primeWidget
 
 ! 27/12/2019 https://www.livemint.com
 www.livemint.com##.marqueeTicker.marketStat.cardHolder
