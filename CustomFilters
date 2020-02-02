@@ -7,6 +7,8 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.tx
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt 
 -->Personal
 https://raw.githubusercontent.com/mehta1190/userfiltersforAdguard/master/userfilters  
+https://raw.githubusercontent.com/mehta1190/userfiltersforAdguard/master/adguard_cb_user_filter.txt
+https://raw.githubusercontent.com/mehta1190/userfiltersforAdguard/master/adguard_dns_user_filter.txt
 -->Others
 https://adaway.org/hosts.txt 
 https://hosts-file.net/ad_servers.txt
