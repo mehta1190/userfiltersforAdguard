@@ -1,0 +1,13 @@
+-->uBLOCK
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt 
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt 
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt  
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt 
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt 
+-->Personal
+https://raw.githubusercontent.com/mehta1190/userfiltersforAdguard/master/userfilters  
+-->Others
+https://adaway.org/hosts.txt 
+https://hosts-file.net/ad_servers.txt
+https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/filter/Spotify-AdBlock.txt
