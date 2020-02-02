@@ -15,16 +15,16 @@ m.timesofindia.com##.location_detect_box_overlay
 ||m.timesofindia.com/common_cube.cms$subdocument
 ||m.timesofindia.com/common_cube.cms?cubeid=default$subdocument
 m.timesofindia.com##.adDiv.AQ87t._19Lts
-m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > ._38kVl > ._3JRp7 > ._1Rokh
-m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .e3Qsw._2SdDG
-m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .clearfix.ctn-workaround-div
-m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .xU6H_
-m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .bannerwrapper > .remove-ad-btn
-m.timesofindia.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > .ITdKg._234nV
-m.timesofindia.com##div.articlepage.main_dpygrid:nth-of-type(n) > .twocolum > .col_box1 > .clearfix.as_article > .clearfix.article_content > .js-india-only.ATFPos.version2.grid-list.amazongn_box.gn-affiliate-box
-m.timesofindia.com##div.visited.clearfix.articlepage:nth-of-type(n) > .article_outer > .grid-list.shop.amz-box
-m.timesofindia.com##div.clearfix.articlepage:nth-of-type(n) > .article_outer > .grid-list.shop.amz-box
-m.timesofindia.com##div.visited.clearfix.articlepage:nth-of-type(n) > .article_outer > .readstory_offline
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>._38kVl>._3JRp7>._1Rokh
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>.e3Qsw._2SdDG
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>.clearfix.ctn-workaround-div
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>.xU6H_
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>.bannerwrapper>.remove-ad-btn
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>.ITdKg._234nV
+m.timesofindia.com##div.articlepage.main_dpygrid:nth-of-type(n)>.twocolum>.col_box1>.clearfix.as_article>.clearfix.article_content>.js-india-only.ATFPos.version2.grid-list.amazongn_box.gn-affiliate-box
+m.timesofindia.com##div.visited.clearfix.articlepage:nth-of-type(n)>.article_outer>.grid-list.shop.amz-box
+m.timesofindia.com##div.clearfix.articlepage:nth-of-type(n)>.article_outer>.grid-list.shop.amz-box
+m.timesofindia.com##div.visited.clearfix.articlepage:nth-of-type(n)>.article_outer>.readstory_offline
 m.timesofindia.com##div._2Ndzu:nth-of-type(4)
 m.timesofindia.com##.ITdKg._2wcoe.sPtQv
 m.timesofindia.com##.XuJKh._2e4Dx._2Uge1.iframe_css
@@ -35,7 +35,7 @@ timesofindia.indiatimes.com##a.UTMCz
 timesofindia.indiatimes.com##._25VUP.UTMCz
 timesofindia.indiatimes.com##._2aH55.BcqXN
 timesofindia.indiatimes.com##.social-widget-mob-parent._1Rokh
-timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > ._38kVl > ._3JRp7 > ._1Rokh
+timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>._38kVl>._3JRp7>._1Rokh
 ||timesofindia.indiatimes.com/ad_free_nudge_text.cms$subdocument
 
 ! 06/10/2019 https://navbharattimes.indiatimes.com
@@ -43,9 +43,9 @@ navbharattimes.indiatimes.com##.app_download
 navbharattimes.indiatimes.com##.btn_openinapp
 navbharattimes.indiatimes.com##.apna_bazaar_header
 navbharattimes.indiatimes.com##.parallaxDiv
-navbharattimes.indiatimes.com###HmQWglte > div > div
-navbharattimes.indiatimes.com##.story-content.undefined > .esicon
-navbharattimes.indiatimes.com##div:nth-of-type(n) > .esicon
+navbharattimes.indiatimes.com###HmQWglte>div>div
+navbharattimes.indiatimes.com##.story-content.undefined>.esicon
+navbharattimes.indiatimes.com##div:nth-of-type(n)>.esicon
 ||malayalam.samayam.com/off-url-forward/amazon_widget.cms$subdocument
 
 ! 06/10/2019 https://www.indiatoday.in
@@ -103,7 +103,7 @@ www.moneycontrol.com###_w18_noti_div
 www.moneycontrol.com##.show-mobile.app_btn_container
 www.moneycontrol.com###getAppModel
 www.moneycontrol.com##.fixedfortopwrap.show-moblie
-www.moneycontrol.com###article-main > [href="https://www.moneycontrol.com/promos/pro.php"]
+www.moneycontrol.com###article-main>[href="https://www.moneycontrol.com/promos/pro.php"]
 
 ! 06/10/2019 https://m.businesstoday.in
 m.businesstoday.in###txt_audio
@@ -155,7 +155,7 @@ m.jagran.com###next-stories
 m.aajtak.in###txt_audio
 
 ! 06/10/2019 https://www.indiatvnews.com
-www.indiatvnews.com##.row.article > .mb10.ad.row
+www.indiatvnews.com##.row.article>.mb10.ad.row
 www.indiatvnews.com##.mb10.mt10.ad.row
 
 ! 06/10/2019 https://m.mensxp.com
@@ -189,19 +189,19 @@ www.theguardian.com##.hide-until-mobile.new-header__cta-bar
 www.theguardian.com##.u-cf.colophon
 
 ! 06/10/2019 https://m.telegraphindia.com
-m.telegraphindia.com##body > .add-full-long
+m.telegraphindia.com##body>.add-full-long
 
 ! 28/12/2019 https://www.scmp.com
 www.scmp.com##.mobile-wide-ad-container-1.wrapper__mobile-wide-ad-container-1
 www.scmp.com##.inline-ad-1.inline-ad-container
 www.scmp.com##.inline-ad-2.inline-ad-container
 www.scmp.com##.inline-ad-1.collapsed.inline-ad-container
-www.scmp.com##.article--first.article.generic-article > .wrapper.article__wrapper > .mobile-wide-ad-container-1.wrapper__mobile-wide-ad-container-1
-www.scmp.com##.article--last.article.opinion-article > .wrapper.article__wrapper > .mobile-wide-ad-container-1.wrapper__mobile-wide-ad-container-1
+www.scmp.com##.article--first.article.generic-article>.wrapper.article__wrapper>.mobile-wide-ad-container-1.wrapper__mobile-wide-ad-container-1
+www.scmp.com##.article--last.article.opinion-article>.wrapper.article__wrapper>.mobile-wide-ad-container-1.wrapper__mobile-wide-ad-container-1
 
 ! 06/10/2019 https://thewire.in
 ||plugin.orcsnet.com/$subdocument
-thewire.in###\34 02910 > .postComplete__post-content-wrapper > .l9.m9.s12.col > .postComplete__orcsnet.m10.s12.col
+thewire.in###\34 02910>.postComplete__post-content-wrapper>.l9.m9.s12.col>.postComplete__orcsnet.m10.s12.col
 
 ! 07/10/2019 https://scroll.in
 scroll.in##.fixedsticky-on.hideOnApp.hide-for-large.fixedsticky.share-bar-mobile
@@ -214,5 +214,4 @@ www.accuweather.com##.pvhczca98j8s
 
 ! 07/10/2019 https://vanced.app
 vanced.app###cookieConsent
-
 
