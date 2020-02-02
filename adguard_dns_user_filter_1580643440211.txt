@@ -1,0 +1,7 @@
+||reports.crashlytics.com^
+||e.crashlytics.com^
+||settings.crashlytics.com^
+||sb.scorecardresearch.com^
+||b.scorecardresearch.com^
+||udm.scorecardresearch.com^
+||timespoints.com^

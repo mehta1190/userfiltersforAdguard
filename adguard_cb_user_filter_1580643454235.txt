@@ -1,0 +1,4 @@
+@@||timesofindia.indiatimes.com^$domain=google.co.in,app=com.kiwibrowser.browser
+@@||cdn.syndication.twimg.com^$app=com.kiwibrowser.browser
+||graph.facebook.com^$app=com.gaana
+||graph.facebook.com^$app=net.one97.paytm
