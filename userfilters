@@ -27,8 +27,8 @@ m.timesofindia.com##.ITdKg._2wcoe.sPtQv
 m.timesofindia.com##.XuJKh._2e4Dx._2Uge1.iframe_css
 m.timesofindia.com##[href="javascript:void(0)"]
 m.timesofindia.com##div.articlepage.main_dpygrid:nth-of-type(n)>.primeads
-||m.timesofindia.com/etcommon_cube.cms$subdocument
-||m.timesofindia.com/common_cube.cms$subdocument
+||m.timesofindia.com/etcommon_cube.cms$subdocument,important
+||m.timesofindia.com/common_cube.cms$subdocument,important
 
 ! 13/12/2019 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##._3Ezwx
