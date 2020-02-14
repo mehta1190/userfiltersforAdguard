@@ -29,6 +29,10 @@ m.timesofindia.com##[href="javascript:void(0)"]
 m.timesofindia.com##div.articlepage.main_dpygrid:nth-of-type(n)>.primeads
 ||m.timesofindia.com/etcommon_cube.cms$subdocument,important
 ||m.timesofindia.com/common_cube.cms$subdocument,important
+!m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>div:nth-of-type(8)>._1M6kw
+!m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>div:nth-of-type(7)>._1M6kw
+!m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>div:nth-of-type(6)>._1M6kw
+m.timesofindia.com##div:nth-of-type(n)>._1M6kw
 
 ! 13/12/2019 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##._3Ezwx
@@ -63,6 +67,7 @@ www.indiatoday.in##.text-app-download
 www.indiatoday.in###txt_audio
 www.indiatoday.in##.showGototop.goToTop
 www.indiatoday.in##.story-header-ad
+www.indiatoday.in##.app_menu
 ||feeds.intoday.in/newsletter/display_form.php$subdocument
 ||smedia2.intoday.in/businesstoday/budget/2020/sponsor-strip/it/index.html$subdocument
 
@@ -108,6 +113,8 @@ m.economictimes.com###primeWidget
 www.livemint.com##.marqueeTicker.marketStat.cardHolder
 www.livemint.com##.clearfix.topTxt
 www.livemint.com###pushDownAd
+www.livemint.com##.skip.btnSub
+www.livemint.com##a.btnSub:nth-of-type(n)
 ||www.livemint.com/images/gradient.png$image
 ||www.livemint.com/images/subscriptionBg.svg$image
 ||www.livemint.com/images/computer.png$image
@@ -118,6 +125,7 @@ www.moneycontrol.com###_w18_noti_div
 www.moneycontrol.com##.show-mobile.app_btn_container
 www.moneycontrol.com###getAppModel
 www.moneycontrol.com##.fixedfortopwrap.show-moblie
+www.moneycontrol.com###article-main>b
 www.moneycontrol.com###article-main>[href="https://www.moneycontrol.com/promos/pro.php"]
 
 ! 06/10/2019 https://m.businesstoday.in
@@ -129,6 +137,9 @@ m.businesstoday.in##.hidegap.mainBorromSliderSec
 www.thehindubusinessline.com##.entrySubs
 www.thehindubusinessline.com###mobilesubscripe
 www.thehindubusinessline.com##.dashboardiconentry
+
+! 14/02/2020 https://m.hindustantimes.com
+||www.hindustantimes.com/images/app-images/2019/12/app_banner.jpg$image
 
 ! 27/10/2019 https://wap.business-standard.com
 wap.business-standard.com###first_ad_bs
@@ -143,6 +154,7 @@ www.bloombergquint.com##.share-toggle-module__share-button-top__1M_aL
 
 ! 06/10/2019 https://www.thehindu.com
 www.thehindu.com##.hidden-lg.hidden-md.hidden-sm.mobileadsubentry
+www.thehindu.com###budgetid
 
 ! 06/10/2019 https://www.firstpost.com
 www.firstpost.com##.flying_carpet_ads.mb-5.mt-5.add-section
