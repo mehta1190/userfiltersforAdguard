@@ -11,26 +11,26 @@ m.timesofindia.com##.selectCity
 m.timesofindia.com###noad-freetrial
 m.timesofindia.com##.location_detect_boxn1
 m.timesofindia.com##.location_detect_box_overlay
+m.timesofindia.com##div.articlepage.main_dpygrid:nth-of-type(n)>.primeads
 m.timesofindia.com##.adDiv.AQ87t._19Lts
-m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>._38kVl>._3JRp7>._1Rokh
-m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>.e3Qsw._2SdDG
-m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>.clearfix.ctn-workaround-div
-m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>.xU6H_
-m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>.bannerwrapper>.remove-ad-btn
-m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>.ITdKg._234nV
-m.timesofindia.com##div.articlepage.main_dpygrid:nth-of-type(n)>.twocolum>.col_box1>.clearfix.as_article>.clearfix.article_content>.js-india-only.ATFPos.version2.grid-list.amazongn_box.gn-affiliate-box
-m.timesofindia.com##div.visited.clearfix.articlepage:nth-of-type(n)>.article_outer>.grid-list.shop.amz-box
-m.timesofindia.com##div.clearfix.articlepage:nth-of-type(n)>.article_outer>.grid-list.shop.amz-box
-m.timesofindia.com##div.visited.clearfix.articlepage:nth-of-type(n)>.article_outer>.readstory_offline
-m.timesofindia.com##div._2Ndzu:nth-of-type(4)
 m.timesofindia.com##.ITdKg._2wcoe.sPtQv
 m.timesofindia.com##.XuJKh._2e4Dx._2Uge1.iframe_css
-m.timesofindia.com##[href="javascript:void(0)"]
-m.timesofindia.com##div.articlepage.main_dpygrid:nth-of-type(n)>.primeads
-||m.timesofindia.com/etcommon_cube.cms$subdocument,important
-||m.timesofindia.com/common_cube.cms$subdocument,important
-||m.timesofindia.com/defaultinterstitial.cms$subdocument,important
+m.timesofindia.com##div._2Ndzu:nth-of-type(4)
 m.timesofindia.com##div:nth-of-type(n)>._1M6kw
+m.timesofindia.com##[href="javascript:void(0)"]
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>.bannerwrapper>.remove-ad-btn
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>.clearfix.ctn-workaround-div
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>._38kVl>._3JRp7>._1Rokh
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>.e3Qsw._2SdDG
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>.xU6H_
+m.timesofindia.com##div.rel.clearfix:nth-of-type(n)>.clearfix._1IaAp>.clearfix._3WlLe>.ITdKg._234nV
+m.timesofindia.com##div.clearfix.articlepage:nth-of-type(n)>.article_outer>.grid-list.shop.amz-box
+m.timesofindia.com##div.visited.clearfix.articlepage:nth-of-type(n)>.article_outer>.grid-list.shop.amz-box
+m.timesofindia.com##div.visited.clearfix.articlepage:nth-of-type(n)>.article_outer>.readstory_offline
+m.timesofindia.com##div.articlepage.main_dpygrid:nth-of-type(n)>.twocolum>.col_box1>.clearfix.as_article>.clearfix.article_content>.js-india-only.ATFPos.version2.grid-list.amazongn_box.gn-affiliate-box
+||m.timesofindia.com/etcommon_cube.cms$important
+||m.timesofindia.com/common_cube.cms$important
+||m.timesofindia.com/defaultinterstitial.cms$important
 
 ! 13/12/2019 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##._3Ezwx
@@ -58,7 +58,7 @@ navbharattimes.indiatimes.com##.parallaxDiv
 navbharattimes.indiatimes.com###HmQWglte>div>div
 navbharattimes.indiatimes.com##.story-content.undefined>.esicon
 navbharattimes.indiatimes.com##div:nth-of-type(n)>.esicon
-||malayalam.samayam.com/off-url-forward/amazon_widget.cms$subdocument
+||malayalam.samayam.com/off-url-forward/amazon_widget.cms$important
 
 ! 06/10/2019 https://www.indiatoday.in
 www.indiatoday.in##.inline-story-add
