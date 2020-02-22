@@ -63,7 +63,6 @@ navbharattimes.indiatimes.com##div:nth-of-type(n)>.esicon
 ! 06/10/2019 https://www.indiatoday.in
 www.indiatoday.in##.inline-story-add
 www.indiatoday.in##.text-app-download
-www.indiatoday.in###txt_audio
 www.indiatoday.in##.showGototop.goToTop
 www.indiatoday.in##.story-header-ad
 www.indiatoday.in##.app_menu
@@ -131,7 +130,6 @@ www.moneycontrol.com###article-main>b
 www.moneycontrol.com###article-main>[href="https://www.moneycontrol.com/promos/pro.php"]
 
 ! 06/10/2019 https://m.businesstoday.in
-m.businesstoday.in###txt_audio
 m.businesstoday.in##.bt_socials
 m.businesstoday.in##.hidegap.mainBorromSliderSec
 
@@ -180,9 +178,6 @@ www.dnaindia.com##.video-wrap
 
 ! 06/10/2019 https://m.jagran.com
 m.jagran.com###next-stories
-
-! 27/12/2019 https://m.aajtak.in
-m.aajtak.in###txt_audio
 
 ! 06/10/2019 https://www.indiatvnews.com
 www.indiatvnews.com##.row.article>.mb10.ad.row
@@ -238,3 +233,5 @@ www.irctc.co.in###corover-cb-widget
 
 ! 07/10/2019 https://vanced.app
 vanced.app###cookieConsent
+
+###txt_audio
