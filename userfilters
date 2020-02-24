@@ -113,6 +113,7 @@ www.moneycontrol.com###_w18_noti_div
 www.moneycontrol.com##.show-mobile.app_btn_container
 www.moneycontrol.com###getAppModel
 www.moneycontrol.com##.fixedfortopwrap.show-moblie
+www.moneycontrol.com##.notification_new_homepage
 www.moneycontrol.com###article-main>b
 www.moneycontrol.com###article-main>[href="https://www.moneycontrol.com/promos/pro.php"]
 
@@ -172,6 +173,7 @@ www.indiatvnews.com##.ad.row
 ! 06/10/2019 https://m.mensxp.com
 m.mensxp.com##.article-bottom-strip
 m.mensxp.com###cart
+www.mensxp.com###colombiaAdBox
 m.mensxp.com##[href^="https://shop.mensxp.com/mens-grooming-kit/manbox-3"]
 
 ! 24/10/2019 https://yourstory.com
