@@ -60,7 +60,6 @@ www.news18.com##.geta-app
 www.news18.com##.ad-cntainer
 www.news18.com##.getapp_wrap
 www.news18.com##.mob_getapp
-www.news18.com###jiosaavn-widget
 
 ! 06/10/2019 https://www.ndtv.com
 www.ndtv.com##.static_txt
@@ -139,11 +138,11 @@ www.bloombergquint.com##.paywall-meter-module__story-paywall-container__1UgCE
 www.bloombergquint.com##.share-toggle-module__share-button-top__1M_aL
 
 ! 06/10/2019 https://www.thehindu.com
-www.thehindu.com##.hidden-lg.hidden-md.hidden-sm.mobileadsubentry
+www.thehindu.com##.mobileadsubentry
 www.thehindu.com###budgetid
 
 ! 06/10/2019 https://www.firstpost.com
-www.firstpost.com##.flying_carpet_ads.mb-5.mt-5.add-section
+www.firstpost.com##.add-section
 
 ! 06/10/2019 https://zeenews.india.com
 ||zeenews.india.com/live-tv/embed$subdocument
@@ -184,7 +183,7 @@ yourstory.com##.hmxUjQ.sc-cIShpX
 ||yourstory.com/icons/ic_clap.svg$image
 
 ! 28/12/2019 https://www.bloomberg.com
-www.bloomberg.com###box-iOEvhEe
+
 
 ! 06/10/2019 https://www.forbes.com
 www.forbes.com##.amp-player
@@ -193,10 +192,10 @@ www.forbes.com##.amp-player
 thediplomat.com###td-share-bar
 
 ! 06/10/2019 https://foreignpolicy.com
-foreignpolicy.com##.FP-mobile-ad_enabled.FP-mobile-ad_fixedbottom.FP-mobile-ad
+foreignpolicy.com##.FP-mobile-ad
 
 ! 06/10/2019 https://www.theguardian.com
-www.theguardian.com##.hide-until-mobile.new-header__cta-bar
+www.theguardian.com##.new-header__cta-bar
 www.theguardian.com##.u-cf.colophon
 
 ! 06/10/2019 https://m.telegraphindia.com
@@ -207,7 +206,7 @@ www.scmp.com##.wrapper__mobile-wide-ad-container-1
 www.scmp.com##.inline-ad-container
 
 ! 07/10/2019 https://scroll.in
-scroll.in##.fixedsticky-on.hideOnApp.hide-for-large.fixedsticky.share-bar-mobile
+scroll.in##.share-bar-mobile
 
 ! 08/10/2019 https://www.irctc.co.in
 www.irctc.co.in###corover-cb-widget
@@ -216,3 +215,4 @@ www.irctc.co.in###corover-cb-widget
 vanced.app###cookieConsent
 
 ###txt_audio
+###jiosaavn-widget
