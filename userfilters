@@ -43,9 +43,7 @@ navbharattimes.indiatimes.com##.app_download
 navbharattimes.indiatimes.com##.btn_openinapp
 navbharattimes.indiatimes.com##.apna_bazaar_header
 navbharattimes.indiatimes.com##.parallaxDiv
-navbharattimes.indiatimes.com###HmQWglte>div>div
-navbharattimes.indiatimes.com##.story-content.undefined>.esicon
-navbharattimes.indiatimes.com##div:nth-of-type(n)>.esicon
+navbharattimes.indiatimes.com##.esicon
 ||malayalam.samayam.com/off-url-forward/amazon_widget.cms$important
 
 ! 06/10/2019 https://www.indiatoday.in
@@ -85,7 +83,7 @@ khabar.ndtv.com###android
 
 ! 29/11/2019 https://indianexpress.com
 indianexpress.com##.app-btn
-indianexpress.com##div.adboxtop:nth-of-type(n)
+indianexpress.com##div.adboxtop
 indianexpress.com###non_subscribed_banner
 
 ! 08/10/2019 https://m.economictimes.com
@@ -103,7 +101,7 @@ www.livemint.com##.marqueeTicker.marketStat.cardHolder
 www.livemint.com##.clearfix.topTxt
 www.livemint.com###pushDownAd
 www.livemint.com##.skip.btnSub
-www.livemint.com##a.btnSub:nth-of-type(n)
+www.livemint.com##a.btnSub
 ||www.livemint.com/images/gradient.png$image
 ||www.livemint.com/images/subscriptionBg.svg$image
 ||www.livemint.com/images/computer.png$image
