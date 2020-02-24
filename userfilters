@@ -49,7 +49,7 @@ navbharattimes.indiatimes.com##.esicon
 ! 06/10/2019 https://www.indiatoday.in
 www.indiatoday.in##.inline-story-add
 www.indiatoday.in##.text-app-download
-www.indiatoday.in##.showGototop.goToTop
+www.indiatoday.in##.goToTop
 www.indiatoday.in##.story-header-ad
 www.indiatoday.in##.app_menu
 ||feeds.intoday.in/newsletter/display_form.php$subdocument
@@ -83,7 +83,7 @@ khabar.ndtv.com###android
 
 ! 29/11/2019 https://indianexpress.com
 indianexpress.com##.app-btn
-indianexpress.com##div.adboxtop
+indianexpress.com##.adboxtop
 indianexpress.com###non_subscribed_banner
 
 ! 08/10/2019 https://m.economictimes.com
@@ -151,7 +151,7 @@ zeenews.india.com##.bannertophead-ab
 zeenews.india.com##.video-wrap
 zeenews.india.com###get-app2
 ||english.cdn.zeenews.com/images/newsletter-envelop.gif$image
-zeenews.india.com##.newsletterstick.newsletterbpox
+zeenews.india.com##.newsletterbpox
 zeenews.india.com###livebtbox
 
 ! 19/01/2020 https://swarajyamag.com
@@ -166,8 +166,7 @@ www.dnaindia.com##.video-wrap
 m.jagran.com###next-stories
 
 ! 06/10/2019 https://www.indiatvnews.com
-www.indiatvnews.com##.row.article>.mb10.ad.row
-www.indiatvnews.com##.mb10.mt10.ad.row
+www.indiatvnews.com##.ad.row
 
 ! 06/10/2019 https://m.mensxp.com
 m.mensxp.com##.cf.article-bottom-strip
@@ -204,12 +203,8 @@ www.theguardian.com##.u-cf.colophon
 m.telegraphindia.com##body>.add-full-long
 
 ! 28/12/2019 https://www.scmp.com
-www.scmp.com##.mobile-wide-ad-container-1.wrapper__mobile-wide-ad-container-1
-www.scmp.com##.inline-ad-1.inline-ad-container
-www.scmp.com##.inline-ad-2.inline-ad-container
-www.scmp.com##.inline-ad-1.collapsed.inline-ad-container
-www.scmp.com##.article--first.article.generic-article>.wrapper.article__wrapper>.mobile-wide-ad-container-1.wrapper__mobile-wide-ad-container-1
-www.scmp.com##.article--last.article.opinion-article>.wrapper.article__wrapper>.mobile-wide-ad-container-1.wrapper__mobile-wide-ad-container-1
+www.scmp.com##.wrapper__mobile-wide-ad-container-1
+www.scmp.com##.inline-ad-container
 
 ! 07/10/2019 https://scroll.in
 scroll.in##.fixedsticky-on.hideOnApp.hide-for-large.fixedsticky.share-bar-mobile
