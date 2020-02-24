@@ -173,11 +173,12 @@ www.indiatvnews.com##.ad.row
 ! 06/10/2019 https://m.mensxp.com
 m.mensxp.com##.article-bottom-strip
 m.mensxp.com###cart
-www.mensxp.com###colombiaAdBox
+m.mensxp.com###colombiaAdBox
 m.mensxp.com##[href^="https://shop.mensxp.com/mens-grooming-kit/manbox-3"]
 
 ! 24/10/2019 https://yourstory.com
-||yourstory.com/icons/ic_clap.svg$image
+yourstory.com##footer
+||yourstory.com/icons/ic_clap.svg$important
 
 ! 28/12/2019 https://www.bloomberg.com
 www.bloomberg.com###banner-outlet
