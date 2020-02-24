@@ -44,6 +44,9 @@ navbharattimes.indiatimes.com##.btn_openinapp
 navbharattimes.indiatimes.com##.apna_bazaar_header
 navbharattimes.indiatimes.com##.parallaxDiv
 navbharattimes.indiatimes.com##.esicon
+navbharattimes.indiatimes.com##.wdt_newsLetter
+navbharattimes.indiatimes.com##.amz.box-content
+navbharattimes.indiatimes.com##.con_fbapplinks
 ||malayalam.samayam.com/off-url-forward/amazon_widget.cms$important
 
 ! 06/10/2019 https://www.indiatoday.in
@@ -168,7 +171,7 @@ m.jagran.com###next-stories
 www.indiatvnews.com##.ad.row
 
 ! 06/10/2019 https://m.mensxp.com
-m.mensxp.com##.cf.article-bottom-strip
+m.mensxp.com##.article-bottom-strip
 m.mensxp.com###cart
 m.mensxp.com##[href^="https://shop.mensxp.com/mens-grooming-kit/manbox-3"]
 
@@ -183,7 +186,8 @@ yourstory.com##.hmxUjQ.sc-cIShpX
 ||yourstory.com/icons/ic_clap.svg$image
 
 ! 28/12/2019 https://www.bloomberg.com
-
+www.bloomberg.com###banner-outlet
+www.bloomberg.com##.page-ad
 
 ! 06/10/2019 https://www.forbes.com
 www.forbes.com##.amp-player
