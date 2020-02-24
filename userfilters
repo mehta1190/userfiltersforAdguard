@@ -56,7 +56,6 @@ www.indiatoday.in##.goToTop
 www.indiatoday.in##.story-header-ad
 www.indiatoday.in##.app_menu
 ||feeds.intoday.in/newsletter/display_form.php$subdocument
-||smedia2.intoday.in/businesstoday/budget/2020/sponsor-strip/it/index.html$subdocument
 
 ! 06/10/2019 https://www.news18.com
 www.news18.com##.geta-app
@@ -148,21 +147,21 @@ www.thehindu.com###budgetid
 www.firstpost.com##.add-section
 
 ! 06/10/2019 https://zeenews.india.com
-||zeenews.india.com/live-tv/embed$subdocument
 zeenews.india.com##.bannertophead-ab
 zeenews.india.com##.video-wrap
 zeenews.india.com###get-app2
-||english.cdn.zeenews.com/images/newsletter-envelop.gif$image
 zeenews.india.com##.newsletterbpox
 zeenews.india.com###livebtbox
+||zeenews.india.com/live-tv/embed$subdocument
+||english.cdn.zeenews.com/images/newsletter-envelop.gif$image
 
 ! 19/01/2020 https://swarajyamag.com
 swarajyamag.com##.swarajya-nsubscribe
 swarajyamag.com##.home-page-foot-subcribe-mobile
 
 ! 22/12/2019 https://www.dnaindia.com
-||www.dnaindia.com/live-tv/embed$subdocument
 www.dnaindia.com##.video-wrap
+||www.dnaindia.com/live-tv/embed$subdocument
 
 ! 06/10/2019 https://m.jagran.com
 m.jagran.com###next-stories
@@ -176,13 +175,6 @@ m.mensxp.com###cart
 m.mensxp.com##[href^="https://shop.mensxp.com/mens-grooming-kit/manbox-3"]
 
 ! 24/10/2019 https://yourstory.com
-yourstory.com##.iWwLlH.sc-cZBZkQ.sc-EHOje
-yourstory.com##.bSBmKC.sc-fYxtnH
-yourstory.com##.hiWTBx.sc-fYxtnH.sc-EHOje
-yourstory.com##.ASlyj.sc-izvnbC.sc-EHOje
-yourstory.com##.fzSbzk.sc-jWxkHr.sc-EHOje
-yourstory.com##.TSZrE.sc-ghsgMZ
-yourstory.com##.hmxUjQ.sc-cIShpX
 ||yourstory.com/icons/ic_clap.svg$image
 
 ! 28/12/2019 https://www.bloomberg.com
