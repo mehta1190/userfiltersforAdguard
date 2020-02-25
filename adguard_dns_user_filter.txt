@@ -5,3 +5,5 @@
 ||b.scorecardresearch.com^
 ||udm.scorecardresearch.com^
 ||timespoints.com^
+||plugin.orcsnet.com^
+||chat.amplify.ai^
