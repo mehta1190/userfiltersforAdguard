@@ -1,4 +1,1 @@
-@@||timesofindia.indiatimes.com^$domain=google.co.in,app=com.kiwibrowser.browser
-@@||cdn.syndication.twimg.com^$app=com.kiwibrowser.browser
-||graph.facebook.com^$app=com.gaana
-||graph.facebook.com^$app=net.one97.paytm
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$third-party,app=org.bromite.bromite,domain=www.ndtv.com
