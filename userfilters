@@ -169,6 +169,11 @@ www.dnaindia.com##.video-wrap
 ! 06/10/2019 https://m.jagran.com
 m.jagran.com###next-stories
 
+! 28/02/2020 https://www.amarujala.com
+www.amarujala.com##.ad-mb-app
+www.amarujala.com##.text-link-ad
+www.amarujala.com##[href^="/quiz"]
+
 ! 06/10/2019 https://www.indiatvnews.com
 www.indiatvnews.com##.ad.row
 
