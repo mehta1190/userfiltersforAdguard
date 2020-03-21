@@ -49,6 +49,7 @@ navbharattimes.indiatimes.com##.esicon
 navbharattimes.indiatimes.com##.wdt_newsLetter
 navbharattimes.indiatimes.com##.amz.box-content
 navbharattimes.indiatimes.com##.con_fbapplinks
+navbharattimes.indiatimes.com##.fbnad
 ||malayalam.samayam.com/off-url-forward/amazon_widget.cms$important
 
 ! 06/10/2019 https://www.indiatoday.in
@@ -64,6 +65,7 @@ www.news18.com##.geta-app
 www.news18.com##.ad-cntainer
 www.news18.com##.getapp_wrap
 www.news18.com##.mob_getapp
+www.news18.com##.adv_wrp
 
 ! 06/10/2019 https://www.ndtv.com
 www.ndtv.com##.static_txt
@@ -172,10 +174,14 @@ m.jagran.com###next-stories
 ! 28/02/2020 https://www.amarujala.com
 www.amarujala.com##.ad-mb-app
 www.amarujala.com##.text-link-ad
+www.amarujala.com##.ad-mb
 www.amarujala.com##[href^="/quiz"]
 
 ! 06/10/2019 https://www.indiatvnews.com
 www.indiatvnews.com##.ad.row
+
+! 21/03/2020 https://www.bhaskar.com
+www.bhaskar.com###downloadheader
 
 ! 06/10/2019 https://m.mensxp.com
 m.mensxp.com##.article-bottom-strip
@@ -206,7 +212,7 @@ www.theguardian.com##.new-header__cta-bar
 www.theguardian.com##.u-cf.colophon
 
 ! 06/10/2019 https://m.telegraphindia.com
-m.telegraphindia.com##body>.add-full-long
+m.telegraphindia.com##.add-full-long
 
 ! 28/12/2019 https://www.scmp.com
 www.scmp.com##.wrapper__mobile-wide-ad-container-1
@@ -215,11 +221,20 @@ www.scmp.com##.inline-ad-container
 ! 07/10/2019 https://scroll.in
 scroll.in##.share-bar-mobile
 
+! 21/03/2020 https://thewire.in
+thewire.in##.postComplete__orcsnet
+
 ! 08/10/2019 https://www.irctc.co.in
 www.irctc.co.in###corover-cb-widget
 
 ! 07/10/2019 https://vanced.app
 vanced.app###cookieConsent
+
+! 21/03/2020 https://www.foxnews.com
+www.foxnews.com##.ad-container
+
+! 21/03/2020 https://www.greaterkashmir.com
+www.greaterkashmir.com##amp-ad
 
 ###txt_audio
 ###jiosaavn-widget
