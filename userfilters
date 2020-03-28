@@ -26,6 +26,8 @@ m.timesofindia.com##._3OS-W
 m.timesofindia.com##.ctn-workaround-div
 m.timesofindia.com##.XuJKh
 m.timesofindia.com##.xU6H_
+m.timesofindia.com##.a3_tR
+m.timesofindia.com##div.alC
 ||m.timesofindia.com/etcommon_cube.cms$important
 ||m.timesofindia.com/common_cube.cms$important
 ||m.timesofindia.com/defaultinterstitial.cms$important
@@ -61,11 +63,11 @@ www.indiatoday.in##.app_menu
 ||feeds.intoday.in/newsletter/display_form.php$important
 
 ! 06/10/2019 https://www.news18.com
-www.news18.com##.geta-app
-www.news18.com##.ad-cntainer
-www.news18.com##.getapp_wrap
-www.news18.com##.mob_getapp
-www.news18.com##.adv_wrp
+news18.com##.geta-app
+news18.com##.ad-cntainer
+news18.com##.getapp_wrap
+news18.com##.mob_getapp
+news18.com##.adv_wrp
 
 ! 06/10/2019 https://www.ndtv.com
 www.ndtv.com##.static_txt
@@ -132,6 +134,8 @@ www.thehindubusinessline.com##.dashboardiconentry
 
 ! 14/02/2020 https://m.hindustantimes.com
 ||www.hindustantimes.com/images/app-images/2019/12/app_banner.jpg$image
+m.hindustantimes.com###loggedout
+m.hindustantimes.com###appinstall
 
 ! 27/10/2019 https://wap.business-standard.com
 wap.business-standard.com###first_ad_bs
