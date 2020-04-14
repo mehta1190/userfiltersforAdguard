@@ -28,6 +28,7 @@ m.timesofindia.com##.XuJKh
 m.timesofindia.com##.xU6H_
 m.timesofindia.com##.a3_tR
 m.timesofindia.com##div.alC
+m.timesofindia.com##.push-dialog-container
 ||m.timesofindia.com/etcommon_cube.cms$important
 ||m.timesofindia.com/common_cube.cms$important
 ||m.timesofindia.com/defaultinterstitial.cms$important
@@ -59,6 +60,7 @@ www.indiatoday.in##.inline-story-add
 www.indiatoday.in##.text-app-download
 www.indiatoday.in##.goToTop
 www.indiatoday.in##.story-header-ad
+www.indiatoday.in##.story-social-share-fix
 www.indiatoday.in##.app_menu
 ||feeds.intoday.in/newsletter/display_form.php$important
 
@@ -68,6 +70,9 @@ news18.com##.ad-cntainer
 news18.com##.getapp_wrap
 news18.com##.mob_getapp
 news18.com##.adv_wrp
+news18.com##.story-social-share-fix
+news18.com##.corona-toolbarbtn
+hindi.news18.com##.add
 
 ! 06/10/2019 https://www.ndtv.com
 www.ndtv.com##.static_txt
@@ -94,6 +99,7 @@ indianexpress.com##.adboxtop
 indianexpress.com###non_subscribed_banner
 
 ! 08/10/2019 https://m.economictimes.com
+m.economictimes.com##.ads
 m.economictimes.com##.flr.bold.getApp
 m.economictimes.com##.appIcon
 m.economictimes.com##.flr.viewApp
@@ -140,6 +146,7 @@ m.hindustantimes.com###appinstall
 ! 27/10/2019 https://wap.business-standard.com
 wap.business-standard.com###first_ad_bs
 wap.business-standard.com##.m-right
+wap.business-standard.com##.overlay12
 
 ! 02/02/2020 https://www.outlookindia.com
 www.outlookindia.com##.amp_banner
@@ -186,6 +193,9 @@ www.indiatvnews.com##.ad.row
 
 ! 21/03/2020 https://www.bhaskar.com
 www.bhaskar.com###downloadheader
+
+! 13/04/2020 https://m.livehindustan.com
+m.livehindustan.com##.app-quicklinks
 
 ! 06/10/2019 https://m.mensxp.com
 m.mensxp.com##.article-bottom-strip
