@@ -80,6 +80,7 @@ www.ndtv.com##.story_ft-nav
 www.ndtv.com##.tele-wrap
 www.ndtv.com##.static-txt-promo
 www.ndtv.com##.mx-spon
+www.ndtv.com##.swiper-wrapper
 
 ! 06/10/2019 https://gadgets.ndtv.com
 gadgets.ndtv.com###tbl-next-up
@@ -128,6 +129,8 @@ www.moneycontrol.com###getAppModel
 www.moneycontrol.com##.fixedfortopwrap.show-moblie
 www.moneycontrol.com##.notification_new_homepage
 www.moneycontrol.com###article-main>b
+www.moneycontrol.com##.download_app_container
+www.moneycontrol.com###download_app_btn
 www.moneycontrol.com###article-main>[href="https://www.moneycontrol.com/promos/pro.php"]
 
 ! 06/10/2019 https://m.businesstoday.in
@@ -148,6 +151,7 @@ m.hindustantimes.com###appinstall
 wap.business-standard.com###first_ad_bs
 wap.business-standard.com##.m-right
 wap.business-standard.com##.overlay12
+wap.business-standard.com###cubeHtml
 
 ! 02/02/2020 https://www.outlookindia.com
 www.outlookindia.com##.amp_banner
@@ -159,6 +163,7 @@ www.bloombergquint.com##.share-toggle-module__share-button-top__1M_aL
 ! 06/10/2019 https://www.thehindu.com
 www.thehindu.com##.mobileadsubentry
 www.thehindu.com###budgetid
+www.thehindu.com##.ad-ft
 
 ! 06/10/2019 https://www.firstpost.com
 www.firstpost.com##.add-section
@@ -253,3 +258,12 @@ www.greaterkashmir.com##amp-ad
 
 ###txt_audio
 ###jiosaavn-widget
+
+##.corona-toolbarbtn
+m.timesofindia.com##.maskindia
+timesofindia.indiatimes.com##[href="https://m.timesofindia.com/maskindia"]
+www.livemint.com###corona-div
+www.news18.com##.my-space>[href="/coronavirus-latest-news/"]
+www.news18.com###outer>[href="/coronavirus-latest-news/"]
+www.thehindubusinessline.com##.covidCubeMain
+
