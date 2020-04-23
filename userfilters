@@ -72,6 +72,7 @@ news18.com##.mob_getapp
 news18.com##.adv_wrp
 news18.com##.story-social-share-fix
 news18.com##.corona-toolbarbtn
+news18.com##.article_footer_txt
 hindi.news18.com##.add
 
 ! 06/10/2019 https://www.ndtv.com
@@ -263,7 +264,8 @@ www.greaterkashmir.com##amp-ad
 m.timesofindia.com##.maskindia
 timesofindia.indiatimes.com##[href="https://m.timesofindia.com/maskindia"]
 www.livemint.com###corona-div
-www.news18.com##.my-space>[href="/coronavirus-latest-news/"]
-www.news18.com###outer>[href="/coronavirus-latest-news/"]
+news18.com##.my-space>[href="/coronavirus-latest-news/"]
+news18.com###outer>[href="/coronavirus-latest-news/"]
+news18.com##body>[href="/coronavirus-latest-news/"]
 www.thehindubusinessline.com##.covidCubeMain
 
