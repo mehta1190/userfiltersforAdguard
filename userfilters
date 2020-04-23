@@ -116,12 +116,12 @@ m.economictimes.com###primeWidget
 www.livemint.com##.marqueeTicker.marketStat.cardHolder
 www.livemint.com##.clearfix.topTxt
 www.livemint.com###pushDownAd
-www.livemint.com##.skip.btnSub
-www.livemint.com##a.btnSub
+!www.livemint.com##.skip.btnSub
+!www.livemint.com##a.btnSub
 !||www.livemint.com/images/gradient.png$image
-||www.livemint.com/images/subscriptionBg.svg$image
+!||www.livemint.com/images/subscriptionBg.svg$image
 !||www.livemint.com/images/computer.png$image
-||www.livemint.com/images/advertisement.svg$image
+!||www.livemint.com/images/advertisement.svg$image
 
 ! 06/10/2019 https://www.moneycontrol.com
 www.moneycontrol.com###_w18_noti_div
