@@ -118,9 +118,9 @@ www.livemint.com##.clearfix.topTxt
 www.livemint.com###pushDownAd
 www.livemint.com##.skip.btnSub
 www.livemint.com##a.btnSub
-||www.livemint.com/images/gradient.png$image
+!||www.livemint.com/images/gradient.png$image
 ||www.livemint.com/images/subscriptionBg.svg$image
-||www.livemint.com/images/computer.png$image
+!||www.livemint.com/images/computer.png$image
 ||www.livemint.com/images/advertisement.svg$image
 
 ! 06/10/2019 https://www.moneycontrol.com
@@ -268,4 +268,3 @@ news18.com##.my-space>[href="/coronavirus-latest-news/"]
 news18.com###outer>[href="/coronavirus-latest-news/"]
 news18.com##body>[href="/coronavirus-latest-news/"]
 www.thehindubusinessline.com##.covidCubeMain
-
