@@ -114,8 +114,8 @@ m.economictimes.com###primeWidget
 
 ! 27/12/2019 https://www.livemint.com
 www.livemint.com##.marqueeTicker.marketStat.cardHolder
-www.livemint.com##.clearfix.topTxt
-www.livemint.com###pushDownAd
+!www.livemint.com##.clearfix.topTxt
+!www.livemint.com###pushDownAd
 !www.livemint.com##.skip.btnSub
 !www.livemint.com##a.btnSub
 !||www.livemint.com/images/gradient.png$image
