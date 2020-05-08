@@ -55,6 +55,9 @@ navbharattimes.indiatimes.com##.con_fbapplinks
 navbharattimes.indiatimes.com##.fbnad
 ||malayalam.samayam.com/off-url-forward/amazon_widget.cms$important
 
+! 07/05/2020 https://mumbaimirror.indiatimes.com
+mumbaimirror.indiatimes.com##.moreFromWorld
+
 ! 06/10/2019 https://www.indiatoday.in
 www.indiatoday.in##.inline-story-add
 www.indiatoday.in##.text-app-download
@@ -71,7 +74,6 @@ news18.com##.getapp_wrap
 news18.com##.mob_getapp
 news18.com##.adv_wrp
 news18.com##.story-social-share-fix
-news18.com##.corona-toolbarbtn
 news18.com##.article_footer_txt
 hindi.news18.com##.add
 
@@ -169,18 +171,25 @@ www.thehindu.com##.ad-ft
 ! 06/10/2019 https://www.firstpost.com
 www.firstpost.com##.add-section
 
+! 07/05/2020 https://www.india.com
+india.com##.zee-points-items
+
 ! 06/10/2019 https://zeenews.india.com
 zeenews.india.com##.bannertophead-ab
 zeenews.india.com##.video-wrap
 zeenews.india.com###get-app2
 zeenews.india.com##.newsletterbpox
 zeenews.india.com###livebtbox
+zeenews.india.com##.outbrain-bg
 ||zeenews.india.com/live-tv/embed$subdocument
 ||english.cdn.zeenews.com/images/newsletter-envelop.gif$image
 
 ! 19/01/2020 https://swarajyamag.com
 swarajyamag.com##.swarajya-nsubscribe
 swarajyamag.com##.home-page-foot-subcribe-mobile
+swarajyamag.com##.story-page-content-ad
+swarajyamag.com##.mobile-insta-adv
+swarajyamag.com##.subscribe-block-wrapper
 
 ! 22/12/2019 https://www.dnaindia.com
 www.dnaindia.com##.video-wrap
@@ -204,11 +213,17 @@ www.bhaskar.com###downloadheader
 ! 13/04/2020 https://m.livehindustan.com
 m.livehindustan.com##.app-quicklinks
 
+! 07/05/2020 https://www.deccanchronicle.com
+www.deccanchronicle.com##.horiAd
+
 ! 06/10/2019 https://m.mensxp.com
 m.mensxp.com##.article-bottom-strip
 m.mensxp.com###cart
 m.mensxp.com###colombiaAdBox
 m.mensxp.com##[href^="https://shop.mensxp.com/mens-grooming-kit/manbox-3"]
+
+! 07/05/2020 https://www.quora.com
+www.quora.com##.spacing_log_question_page_ad
 
 ! 24/10/2019 https://yourstory.com
 yourstory.com##.sc-jotlie.sc-EHOje
@@ -222,6 +237,9 @@ www.bloomberg.com##.page-ad
 ! 06/10/2019 https://www.forbes.com
 www.forbes.com##.amp-player
 
+! 07/05/2020 https://m.tribuneindia.com
+m.tribuneindia.com###rwadx_adunit
+
 ! 07/11/2019 https://thediplomat.com
 thediplomat.com###td-share-bar
 
@@ -231,6 +249,9 @@ foreignpolicy.com##.FP-mobile-ad
 ! 06/10/2019 https://www.theguardian.com
 www.theguardian.com##.new-header__cta-bar
 www.theguardian.com##.u-cf.colophon
+
+! 07/05/2020 https://www.nytimes.com
+www.nytimes.com##.MAG_web_anon_coronavirus-dock
 
 ! 06/10/2019 https://m.telegraphindia.com
 m.telegraphindia.com##.add-full-long
@@ -260,11 +281,13 @@ www.greaterkashmir.com##amp-ad
 ###txt_audio
 ###jiosaavn-widget
 
-##.corona-toolbarbtn
 m.timesofindia.com##.maskindia
+m.timesofindia.com##._2Q_0C
 timesofindia.indiatimes.com##[href="https://m.timesofindia.com/maskindia"]
 www.livemint.com###corona-div
 news18.com##.my-space>[href="/coronavirus-latest-news/"]
 news18.com###outer>[href="/coronavirus-latest-news/"]
 news18.com##body>[href="/coronavirus-latest-news/"]
+news18.com##.corona-toolbarbtn
+hindi.news18.com##.corona-toolbarbtn
 www.thehindubusinessline.com##.covidCubeMain
