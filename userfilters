@@ -203,6 +203,7 @@ www.amarujala.com##.ad-mb-app
 www.amarujala.com##.text-link-ad
 www.amarujala.com##.ad-mb
 www.amarujala.com##[href^="/quiz"]
+www.amarujala.com##.auplus-wdgt-story
 
 ! 06/10/2019 https://www.indiatvnews.com
 www.indiatvnews.com##.ad.row
@@ -278,12 +279,16 @@ www.foxnews.com##.ad-container
 ! 21/03/2020 https://www.greaterkashmir.com
 www.greaterkashmir.com##amp-ad
 
+! 08/05/2020 https://github.com
+github.com##.signup-prompt-bg
+
 ###txt_audio
 ###jiosaavn-widget
 
 m.timesofindia.com##.maskindia
 m.timesofindia.com##._2Q_0C
 timesofindia.indiatimes.com##[href="https://m.timesofindia.com/maskindia"]
+navbharattimes.indiatimes.com##[href="https://navbharattimes.indiatimes.com/maskindia"]
 www.livemint.com###corona-div
 news18.com##.my-space>[href="/coronavirus-latest-news/"]
 news18.com###outer>[href="/coronavirus-latest-news/"]
