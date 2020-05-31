@@ -84,6 +84,7 @@ www.ndtv.com##.tele-wrap
 www.ndtv.com##.static-txt-promo
 www.ndtv.com##.mx-spon
 www.ndtv.com##.swiper-wrapper
+www.ndtv.com###google_widget
 
 ! 06/10/2019 https://gadgets.ndtv.com
 gadgets.ndtv.com###tbl-next-up
@@ -102,6 +103,12 @@ khabar.ndtv.com###android
 indianexpress.com##.app-btn
 indianexpress.com##.adboxtop
 indianexpress.com###non_subscribed_banner
+
+! 29/05/2020 https://www.newindianexpress.com
+www.newindianexpress.com###cube
+www.newindianexpress.com##.mobile_share
+www.newindianexpress.com##.scc
+www.newindianexpress.com##.ArticleComments
 
 ! 08/10/2019 https://m.economictimes.com
 m.economictimes.com##.ads
