@@ -286,14 +286,9 @@ vanced.app###cookieConsent
 ! 21/03/2020 https://www.foxnews.com
 www.foxnews.com##.ad-container
 
-! 21/03/2020 https://www.greaterkashmir.com
-www.greaterkashmir.com##amp-ad
-
-! 08/05/2020 https://github.com
-github.com##.signup-prompt-bg
-
 ###txt_audio
 ###jiosaavn-widget
+##.corona-toolbarbtn
 
 m.timesofindia.com##.maskindia
 m.timesofindia.com##._2Q_0C
