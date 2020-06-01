@@ -75,6 +75,8 @@ news18.com##.mob_getapp
 news18.com##.adv_wrp
 news18.com##.story-social-share-fix
 news18.com##.article_footer_txt
+news18.com##.horoscope-mobile
+news18.com##.article-mad
 hindi.news18.com##.add
 
 ! 06/10/2019 https://www.ndtv.com
@@ -103,6 +105,9 @@ khabar.ndtv.com###android
 indianexpress.com##.app-btn
 indianexpress.com##.adboxtop
 indianexpress.com###non_subscribed_banner
+indianexpress.com##.social-share-nextbtn
+indianexpress.com###Bell_icon
+indianexpress.com##.amp-ad
 
 ! 29/05/2020 https://www.newindianexpress.com
 www.newindianexpress.com###cube
@@ -120,6 +125,11 @@ m.economictimes.com###wapFooter
 m.economictimes.com###footer_banner
 m.economictimes.com###primeWidget
 ||economictimes.indiatimes.com/js_interstitial.cms$important
+
+! 31/05/2020 https://www.financialexpress.com
+www.financialexpress.com##.adsbox990x90
+www.financialexpress.com###append_cubebox_box
+www.financialexpress.com##.bell-icon
 
 ! 27/12/2019 https://www.livemint.com
 www.livemint.com##.marqueeTicker.marketStat.cardHolder
@@ -241,6 +251,9 @@ yourstory.com##.sc-gNJABI
 ! 28/12/2019 https://www.bloomberg.com
 www.bloomberg.com###banner-outlet
 www.bloomberg.com##.page-ad
+
+! 31/05/2020 https://www.thequint.com
+www.thequint.com##.sticky-banner
 
 ! 06/10/2019 https://www.forbes.com
 www.forbes.com##.amp-player
