@@ -28,6 +28,8 @@ m.timesofindia.com##.XuJKh
 m.timesofindia.com##.xU6H_
 m.timesofindia.com##.a3_tR
 m.timesofindia.com##div.alC
+m.timesofindia.com##._18IgV
+m.timesofindia.com##._1tQnP
 m.timesofindia.com##.push-dialog-container
 ||m.timesofindia.com/etcommon_cube.cms$important
 ||m.timesofindia.com/common_cube.cms$important
@@ -184,6 +186,7 @@ www.bloombergquint.com##.share-toggle-module__share-button-top__1M_aL
 www.thehindu.com##.mobileadsubentry
 www.thehindu.com###budgetid
 www.thehindu.com##.ad-ft
+www.thehindu.com##.support-jlm
 
 ! 06/10/2019 https://www.firstpost.com
 www.firstpost.com##.add-section
@@ -260,6 +263,7 @@ www.forbes.com##.amp-player
 
 ! 07/05/2020 https://m.tribuneindia.com
 m.tribuneindia.com###rwadx_adunit
+m.tribuneindia.com##.news-date
 
 ! 5/24/2020 https://theprint.in
 theprint.in##[href="https://theprint.in/contribute/"]
@@ -289,6 +293,11 @@ scroll.in##.share-bar-mobile
 
 ! 21/03/2020 https://thewire.in
 thewire.in##.postComplete__orcsnet
+
+! 05/06/2020 https://m.thewire.in
+m.thewire.in##.header_adcode
+m.thewire.in##.language_header
+m.thewire.in##.orcsnet_donate
 
 ! 08/10/2019 https://www.irctc.co.in
 www.irctc.co.in###corover-cb-widget
