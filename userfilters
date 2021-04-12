@@ -43,6 +43,7 @@ timesofindia.indiatimes.com##.BcqXN
 timesofindia.indiatimes.com##.ITdKg._2wcoe.sPtQv
 timesofindia.indiatimes.com##._2Ndzu
 timesofindia.indiatimes.com##._3OS-W
+timesofindia.indiatimes.com##.alC
 ||timesofindia.indiatimes.com/ad_free_nudge_text.cms$important
 ||timesofindia.indiatimes.com/defaultinterstitial.cms$important
 ||timesofindia.indiatimes.com/commentsdata.cms$important
@@ -139,12 +140,9 @@ www.financialexpress.com##.bell-icon
 www.livemint.com##.marqueeTicker.marketStat.cardHolder
 www.livemint.com##.clearfix.topTxt
 www.livemint.com###pushDownAd
-www.livemint.com##.skip.btnSub
-www.livemint.com##a.btnSub
-||www.livemint.com/images/gradient.png$image
-||www.livemint.com/images/subscriptionBg.svg$image
-||www.livemint.com/images/computer.png$image
 ||www.livemint.com/images/advertisement.svg$image
+www.livemint.com##.mobileAd
+www.livemint.com##.fixadheight
 
 ! 06/10/2019 https://www.moneycontrol.com
 www.moneycontrol.com###_w18_noti_div
