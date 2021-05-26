@@ -38,12 +38,6 @@ m.timesofindia.com##.push-dialog-container
 ||m.timesofindia.com/defaultinterstitial.cms$important
 
 ! 13/12/2019 https://timesofindia.indiatimes.com
-timesofindia.indiatimes.com##.UTMCz
-timesofindia.indiatimes.com##.BcqXN
-timesofindia.indiatimes.com##.ITdKg._2wcoe.sPtQv
-timesofindia.indiatimes.com##._2Ndzu
-timesofindia.indiatimes.com##._3OS-W
-timesofindia.indiatimes.com##.alC
 ||timesofindia.indiatimes.com/ad_free_nudge_text.cms$important
 ||timesofindia.indiatimes.com/defaultinterstitial.cms$important
 ||timesofindia.indiatimes.com/commentsdata.cms$important
@@ -152,7 +146,6 @@ www.moneycontrol.com##.notification_new_homepage
 www.moneycontrol.com###article-main>b
 www.moneycontrol.com##.download_app_container
 www.moneycontrol.com###download_app_btn
-www.moneycontrol.com###article-main>[href="https://www.moneycontrol.com/promos/pro.php"]
 
 ! 06/10/2019 https://m.businesstoday.in
 m.businesstoday.in##.bt_socials
@@ -257,9 +250,6 @@ www.bloomberg.com##.page-ad
 ! 31/05/2020 https://www.thequint.com
 www.thequint.com##.sticky-banner
 
-! 06/10/2019 https://www.forbes.com
-www.forbes.com##.amp-player
-
 ! 07/05/2020 https://m.tribuneindia.com
 m.tribuneindia.com###rwadx_adunit
 m.tribuneindia.com##.news-date
@@ -277,9 +267,6 @@ foreignpolicy.com##.FP-mobile-ad
 ! 06/10/2019 https://www.theguardian.com
 www.theguardian.com##.new-header__cta-bar
 www.theguardian.com##.u-cf.colophon
-
-! 07/05/2020 https://www.nytimes.com
-www.nytimes.com##.MAG_web_anon_coronavirus-dock
 
 ! 06/10/2019 https://m.telegraphindia.com
 m.telegraphindia.com##.add-full-long
@@ -314,7 +301,6 @@ www.foxnews.com##.ad-container
 
 m.timesofindia.com##.maskindia
 m.timesofindia.com##._2Q_0C
-timesofindia.indiatimes.com##[href="https://m.timesofindia.com/maskindia"]
 navbharattimes.indiatimes.com##[href="https://navbharattimes.indiatimes.com/maskindia"]
 www.livemint.com###corona-div
 news18.com##.my-space>[href="/coronavirus-latest-news/"]
@@ -323,3 +309,4 @@ news18.com##body>[href="/coronavirus-latest-news/"]
 news18.com##.corona-toolbarbtn
 hindi.news18.com##.corona-toolbarbtn
 www.thehindubusinessline.com##.covidCubeMain
+www.nytimes.com##.MAG_web_anon_coronavirus-dock
