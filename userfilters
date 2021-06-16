@@ -1,6 +1,6 @@
 ! Title: MyListForAdguard
 
-! 06/10/2019 https://m.timesofindia.com
+! https://m.timesofindia.com
 m.timesofindia.com###getapp
 m.timesofindia.com###social
 m.timesofindia.com##.openinapp_cont
@@ -50,7 +50,7 @@ m.timesofindia.com##.mobile-socialshare-top
 ||m.timesofindia.com/common_cube.cms$important
 ||m.timesofindia.com/defaultinterstitial.cms$important
 
-! 13/12/2019 https://timesofindia.indiatimes.com
+! https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.UTMCz
 timesofindia.indiatimes.com##.BcqXN
 timesofindia.indiatimes.com##.ITdKg._2wcoe.sPtQv
@@ -63,7 +63,7 @@ timesofindia.indiatimes.com##.alC
 ||timesofindia.indiatimes.com/amazonslider_v2
 ||timesofindia.indiatimes.com//affiliate_new.cms
 
-! 06/10/2019 https://navbharattimes.indiatimes.com
+! https://navbharattimes.indiatimes.com
 navbharattimes.indiatimes.com##.app_download
 navbharattimes.indiatimes.com##.btn_openinapp
 navbharattimes.indiatimes.com##.apna_bazaar_header
@@ -75,12 +75,12 @@ navbharattimes.indiatimes.com##.con_fbapplinks
 navbharattimes.indiatimes.com##.fbnad
 ||malayalam.samayam.com/off-url-forward/amazon_widget.cms$important
 
-! 07/05/2020 https://mumbaimirror.indiatimes.com
+! https://mumbaimirror.indiatimes.com
 mumbaimirror.indiatimes.com##.moreFromWorld
 
 www.timesnownews.com##.common_ad_wrap
 
-! 06/10/2019 https://www.indiatoday.in
+! https://www.indiatoday.in
 www.indiatoday.in##.inline-story-add
 www.indiatoday.in##.text-app-download
 www.indiatoday.in##.goToTop
@@ -89,7 +89,7 @@ www.indiatoday.in##.story-social-share-fix
 www.indiatoday.in##.app_menu
 ||feeds.intoday.in/newsletter/display_form.php$important
 
-! 06/10/2019 https://www.news18.com
+! https://www.news18.com
 news18.com##.geta-app
 news18.com##.ad-cntainer
 news18.com##.getapp_wrap
@@ -104,7 +104,7 @@ news18.com##.stky-ad-footer
 hindi.news18.com##.add
 hindi.news18.com##.ad-cntainer-fly
 
-! 06/10/2019 https://www.ndtv.com
+! https://www.ndtv.com
 www.ndtv.com##.static_txt
 www.ndtv.com##.story_ft-nav
 www.ndtv.com##.tele-wrap
@@ -115,7 +115,7 @@ www.ndtv.com###google_widget
 food.ndtv.com##.add_top-wrp-fl
 food.ndtv.com##.overlay__side-nav
 
-! 06/10/2019 https://gadgets.ndtv.com
+! https://gadgets.ndtv.com
 gadgets.ndtv.com###tbl-next-up
 gadgets.ndtv.com###mid_ad_1
 gadgets.ndtv.com###mid_ad_2
@@ -123,12 +123,12 @@ gadgets.ndtv.com###mid_ad_3
 gadgets.ndtv.com###_pcwgtmrhs
 gadgets.ndtv.com###__kpw_prod_rhs_wgt
 
-! 21/12/2019 https://khabar.ndtv.com
+! https://khabar.ndtv.com
 khabar.ndtv.com##.story_ft-nav
 khabar.ndtv.com###tbl-next-up
 khabar.ndtv.com###android
 
-! 29/11/2019 https://indianexpress.com
+! https://indianexpress.com
 indianexpress.com##.app-btn
 indianexpress.com##.adboxtop
 indianexpress.com###non_subscribed_banner
@@ -136,13 +136,13 @@ indianexpress.com##.social-share-nextbtn
 indianexpress.com###Bell_icon
 indianexpress.com##.amp-ad
 
-! 29/05/2020 https://www.newindianexpress.com
+! https://www.newindianexpress.com
 www.newindianexpress.com###cube
 www.newindianexpress.com##.mobile_share
 www.newindianexpress.com##.scc
 www.newindianexpress.com##.ArticleComments
 
-! 08/10/2019 https://m.economictimes.com
+! https://m.economictimes.com
 m.economictimes.com##.ads
 m.economictimes.com##.flr.bold.getApp
 m.economictimes.com##.appIcon
@@ -157,12 +157,12 @@ m.economictimes.com##._2rMIm
 ||etpwaapi.economictimes.com/request?type=comments$important
 ||economictimes.indiatimes.com/js_interstitial.cms$important
 
-! 31/05/2020 https://www.financialexpress.com
+! https://www.financialexpress.com
 www.financialexpress.com##.adsbox990x90
 www.financialexpress.com###append_cubebox_box
 www.financialexpress.com##.bell-icon
 
-! 27/12/2019 https://www.livemint.com
+! https://www.livemint.com
 www.livemint.com##.marqueeTicker.marketStat.cardHolder
 www.livemint.com##.clearfix.topTxt
 www.livemint.com###pushDownAd
@@ -175,7 +175,7 @@ www.livemint.com##.adMinHeight280
 www.livemint.com##.adHeight280
 ||apigw.livemint.com/mapi/api/metered/v2/fetchDecision$important
 
-! 06/10/2019 https://www.moneycontrol.com
+! https://www.moneycontrol.com
 www.moneycontrol.com###_w18_noti_div
 www.moneycontrol.com##.show-mobile.app_btn_container
 www.moneycontrol.com###getAppModel
@@ -186,18 +186,17 @@ www.moneycontrol.com##.download_app_container
 www.moneycontrol.com###download_app_btn
 www.moneycontrol.com##[href="https://www.moneycontrol.com/promos/pro.php"]
 
-! 06/10/2019 https://m.businesstoday.in
+! https://m.businesstoday.in
 m.businesstoday.in##.bt_socials
 m.businesstoday.in##.hidegap.mainBorromSliderSec
 m.businesstoday.in##.topad250
 
-
-! 06/10/2019 https://www.thehindubusinessline.com
+! https://www.thehindubusinessline.com
 www.thehindubusinessline.com##.entrySubs
 www.thehindubusinessline.com###mobilesubscripe
 www.thehindubusinessline.com##.dashboardiconentry
 
-! 14/02/2020 https://m.hindustantimes.com
+! https://m.hindustantimes.com
 ||www.hindustantimes.com/images/app-images/2019/12/app_banner.jpg$image
 m.hindustantimes.com###loggedout
 m.hindustantimes.com###appinstall
@@ -207,36 +206,36 @@ hindustantimes.com##.adHeight313
 hindustantimes.com##.m_headBanner
 hindustantimes.com##.adMinHeight313
 
-! 27/10/2019 https://wap.business-standard.com
+! https://wap.business-standard.com
 wap.business-standard.com###first_ad_bs
 wap.business-standard.com##.m-right
 wap.business-standard.com##.overlay12
 wap.business-standard.com###cubeHtml
 wap.business-standard.com###divnonpaidcontent
 
-! 02/02/2020 https://www.outlookindia.com
+! https://www.outlookindia.com
 www.outlookindia.com##.amp_banner
 
-! 28/10/2019 https://www.bloombergquint.com
+! https://www.bloombergquint.com
 www.bloombergquint.com##.paywall-meter-module__story-paywall-container__1UgCE
 www.bloombergquint.com##.share-toggle-module__share-button-top__1M_aL
 
-! 06/10/2019 https://www.thehindu.com
+! https://www.thehindu.com
 www.thehindu.com##.mobileadsubentry
 www.thehindu.com###budgetid
 www.thehindu.com##.ad-ft
 www.thehindu.com##.support-jlm
 
-! 06/10/2019 https://www.firstpost.com
+! https://www.firstpost.com
 www.firstpost.com##.add-section
 
-! 07/05/2020 https://www.india.com
+! https://www.india.com
 india.com##.zee-points-items
 www.india.com##.taboola-in-content
 www.india.com##.appdownload
 www.india.com##.coins-count-icom
 
-! 06/10/2019 https://zeenews.india.com
+! https://zeenews.india.com
 zeenews.india.com##.bannertophead-ab
 zeenews.india.com##.video-wrap
 zeenews.india.com###get-app2
@@ -246,107 +245,106 @@ zeenews.india.com##.outbrain-bg
 ||zeenews.india.com/live-tv/embed$subdocument
 ||english.cdn.zeenews.com/images/newsletter-envelop.gif$image
 
-! 19/01/2020 https://swarajyamag.com
+! https://swarajyamag.com
 swarajyamag.com##.swarajya-nsubscribe
 swarajyamag.com##.home-page-foot-subcribe-mobile
 swarajyamag.com##.story-page-content-ad
 swarajyamag.com##.mobile-insta-adv
 swarajyamag.com##.subscribe-block-wrapper
 
-! 22/12/2019 https://www.dnaindia.com
+! https://www.dnaindia.com
 www.dnaindia.com##.video-wrap
 ||www.dnaindia.com/live-tv/embed$subdocument
 
-! 06/10/2019 https://m.jagran.com
+! https://m.jagran.com
 m.jagran.com###next-stories
 
-! 28/02/2020 https://www.amarujala.com
+! https://www.amarujala.com
 www.amarujala.com##.ad-mb-app
 www.amarujala.com##.text-link-ad
 www.amarujala.com##.ad-mb
 www.amarujala.com##[href^="/quiz"]
 www.amarujala.com##.auplus-wdgt-story
 
-! 06/10/2019 https://www.indiatvnews.com
+! https://www.indiatvnews.com
 www.indiatvnews.com##.ad.row
 
-! 21/03/2020 https://www.bhaskar.com
+! https://www.bhaskar.com
 www.bhaskar.com###downloadheader
 
-! 13/04/2020 https://m.livehindustan.com
+! https://m.livehindustan.com
 m.livehindustan.com##.app-quicklinks
 
-! 07/05/2020 https://www.deccanchronicle.com
+! https://www.deccanchronicle.com
 www.deccanchronicle.com##.horiAd
 
-! 06/10/2019 https://m.mensxp.com
+! https://m.mensxp.com
 m.mensxp.com##.article-bottom-strip
 m.mensxp.com###cart
 m.mensxp.com###colombiaAdBox
 m.mensxp.com##[href^="https://shop.mensxp.com/mens-grooming-kit/manbox-3"]
 
-! 07/05/2020 https://www.quora.com
+! https://www.quora.com
 www.quora.com##.spacing_log_question_page_ad
 
-! 24/10/2019 https://yourstory.com
+! https://yourstory.com
 yourstory.com##.sc-jotlie.sc-EHOje
 yourstory.com##.sc-gNJABI
 ||yourstory.com/icons/ic_clap.svg$important
 
-! 28/12/2019 https://www.bloomberg.com
+! https://www.bloomberg.com
 www.bloomberg.com###banner-outlet
 www.bloomberg.com##.page-ad
 
-! 31/05/2020 https://www.thequint.com
+! https://www.thequint.com
 www.thequint.com##.sticky-banner
 
-! 07/05/2020 https://m.tribuneindia.com
+! https://m.tribuneindia.com
 m.tribuneindia.com###rwadx_adunit
 m.tribuneindia.com##.news-date
 
-! 5/24/2020 https://theprint.in
+! https://theprint.in
 theprint.in##[href="https://theprint.in/contribute/"]
 theprint.in##.post_contribute
 
-! 07/11/2019 https://thediplomat.com
+! https://thediplomat.com
 thediplomat.com###td-share-bar
 
-! 06/10/2019 https://foreignpolicy.com
+! https://foreignpolicy.com
 foreignpolicy.com##.FP-mobile-ad
 
-! 06/10/2019 https://www.theguardian.com
+! https://www.theguardian.com
 www.theguardian.com##.new-header__cta-bar
 www.theguardian.com##.u-cf.colophon
 
-! 06/10/2019 https://m.telegraphindia.com
+! https://m.telegraphindia.com
 m.telegraphindia.com##.add-full-long
 
-! 28/12/2019 https://www.scmp.com
+! https://www.scmp.com
 www.scmp.com##.wrapper__mobile-wide-ad-container-1
 www.scmp.com##.inline-ad-container
 
-! 07/10/2019 https://scroll.in
+! https://scroll.in
 scroll.in##.share-bar-mobile
 
-! 21/03/2020 https://thewire.in
+! https://thewire.in
 thewire.in##.postComplete__orcsnet
 
-! 05/06/2020 https://m.thewire.in
+! https://m.thewire.in
 m.thewire.in##.header_adcode
 m.thewire.in##.language_header
 m.thewire.in##.orcsnet_donate
 
-! 08/10/2019 https://www.irctc.co.in
+! https://www.irctc.co.in
 www.irctc.co.in###corover-cb-widget
 
-! 07/10/2019 https://vanced.app
+! https://vanced.app
 vanced.app###cookieConsent
 
-! 21/03/2020 https://www.foxnews.com
+! https://www.foxnews.com
 www.foxnews.com##.ad-container
 
 www.gizbot.com##.oiad-txt
-
 
 ###txt_audio
 ###jiosaavn-widget
