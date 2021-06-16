@@ -33,6 +33,19 @@ m.timesofindia.com##div.alC
 m.timesofindia.com##._18IgV
 m.timesofindia.com##._1tQnP
 m.timesofindia.com##.push-dialog-container
+m.timesofindia.com##.ATF_wrapper_perpetual
+m.timesofindia.com##._3glwe
+m.timesofindia.com##.CLSPlaceholder
+m.timesofindia.com##.footerAdsBox
+m.timesofindia.com##._3NkD2
+m.timesofindia.com##._1cdg_
+m.timesofindia.com##._3zFDW
+m.timesofindia.com##.ATF_wrapper
+m.timesofindia.com##[src="https://timesofindia.indiatimes.com/amazonslider_v1.cms?platform=mweb&tag=toi_wap_as_widget-21"]
+m.timesofindia.com##.mobile-socialshare-bottom
+m.timesofindia.com##._3ZXi-._20-Fx
+m.timesofindia.com##.mobile-socialshare-top
+||timesofindia.indiatimes.com/amazonslider
 ||m.timesofindia.com/etcommon_cube.cms$important
 ||m.timesofindia.com/common_cube.cms$important
 ||m.timesofindia.com/defaultinterstitial.cms$important
@@ -47,6 +60,8 @@ timesofindia.indiatimes.com##.alC
 ||timesofindia.indiatimes.com/ad_free_nudge_text.cms$important
 ||timesofindia.indiatimes.com/defaultinterstitial.cms$important
 ||timesofindia.indiatimes.com/commentsdata.cms$important
+||timesofindia.indiatimes.com/amazonslider_v2
+||timesofindia.indiatimes.com//affiliate_new.cms
 
 ! 06/10/2019 https://navbharattimes.indiatimes.com
 navbharattimes.indiatimes.com##.app_download
@@ -62,6 +77,8 @@ navbharattimes.indiatimes.com##.fbnad
 
 ! 07/05/2020 https://mumbaimirror.indiatimes.com
 mumbaimirror.indiatimes.com##.moreFromWorld
+
+www.timesnownews.com##.common_ad_wrap
 
 ! 06/10/2019 https://www.indiatoday.in
 www.indiatoday.in##.inline-story-add
@@ -82,7 +99,10 @@ news18.com##.story-social-share-fix
 news18.com##.article_footer_txt
 news18.com##.horoscope-mobile
 news18.com##.article-mad
+news18.com##.articleHeaderAd
+news18.com##.stky-ad-footer
 hindi.news18.com##.add
+hindi.news18.com##.ad-cntainer-fly
 
 ! 06/10/2019 https://www.ndtv.com
 www.ndtv.com##.static_txt
@@ -91,6 +111,9 @@ www.ndtv.com##.tele-wrap
 www.ndtv.com##.static-txt-promo
 www.ndtv.com##.mx-spon
 www.ndtv.com###google_widget
+
+food.ndtv.com##.add_top-wrp-fl
+food.ndtv.com##.overlay__side-nav
 
 ! 06/10/2019 https://gadgets.ndtv.com
 gadgets.ndtv.com###tbl-next-up
@@ -128,6 +151,10 @@ m.economictimes.com##.budgetCube
 m.economictimes.com###wapFooter
 m.economictimes.com###footer_banner
 m.economictimes.com###primeWidget
+m.economictimes.com##._1Ic-2
+m.economictimes.com##._2rMIm
+||apw.economictimes.indiatimes.com/adaptivepaywall/*$important
+||etpwaapi.economictimes.com/request?type=comments$important
 ||economictimes.indiatimes.com/js_interstitial.cms$important
 
 ! 31/05/2020 https://www.financialexpress.com
@@ -142,6 +169,11 @@ www.livemint.com###pushDownAd
 ||www.livemint.com/images/advertisement.svg$image
 www.livemint.com##.mobileAd
 www.livemint.com##.fixadheight
+www.livemint.com##.smartcastAd
+www.livemint.com##.lastadHeight280
+www.livemint.com##.adMinHeight280
+www.livemint.com##.adHeight280
+||apigw.livemint.com/mapi/api/metered/v2/fetchDecision$important
 
 ! 06/10/2019 https://www.moneycontrol.com
 www.moneycontrol.com###_w18_noti_div
@@ -152,10 +184,13 @@ www.moneycontrol.com##.notification_new_homepage
 www.moneycontrol.com###article-main>b
 www.moneycontrol.com##.download_app_container
 www.moneycontrol.com###download_app_btn
+www.moneycontrol.com##[href="https://www.moneycontrol.com/promos/pro.php"]
 
 ! 06/10/2019 https://m.businesstoday.in
 m.businesstoday.in##.bt_socials
 m.businesstoday.in##.hidegap.mainBorromSliderSec
+m.businesstoday.in##.topad250
+
 
 ! 06/10/2019 https://www.thehindubusinessline.com
 www.thehindubusinessline.com##.entrySubs
@@ -166,12 +201,18 @@ www.thehindubusinessline.com##.dashboardiconentry
 ||www.hindustantimes.com/images/app-images/2019/12/app_banner.jpg$image
 m.hindustantimes.com###loggedout
 m.hindustantimes.com###appinstall
+hindustantimes.com##.ht_outbrain
+hindustantimes.com##.epaper-ad
+hindustantimes.com##.adHeight313
+hindustantimes.com##.m_headBanner
+hindustantimes.com##.adMinHeight313
 
 ! 27/10/2019 https://wap.business-standard.com
 wap.business-standard.com###first_ad_bs
 wap.business-standard.com##.m-right
 wap.business-standard.com##.overlay12
 wap.business-standard.com###cubeHtml
+wap.business-standard.com###divnonpaidcontent
 
 ! 02/02/2020 https://www.outlookindia.com
 www.outlookindia.com##.amp_banner
@@ -191,6 +232,9 @@ www.firstpost.com##.add-section
 
 ! 07/05/2020 https://www.india.com
 india.com##.zee-points-items
+www.india.com##.taboola-in-content
+www.india.com##.appdownload
+www.india.com##.coins-count-icom
 
 ! 06/10/2019 https://zeenews.india.com
 zeenews.india.com##.bannertophead-ab
@@ -301,10 +345,13 @@ vanced.app###cookieConsent
 ! 21/03/2020 https://www.foxnews.com
 www.foxnews.com##.ad-container
 
+www.gizbot.com##.oiad-txt
+
+
 ###txt_audio
 ###jiosaavn-widget
-##.corona-toolbarbtn
 
+##.corona-toolbarbtn
 m.timesofindia.com##.maskindia
 m.timesofindia.com##._2Q_0C
 navbharattimes.indiatimes.com##[href="https://navbharattimes.indiatimes.com/maskindia"]
