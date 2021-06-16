@@ -5,9 +5,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.tx
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt 
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt 
--->Personal
-https://raw.githubusercontent.com/mehta1190/userfiltersforAdguard/master/userfilters  
-https://raw.githubusercontent.com/mehta1190/userfiltersforAdguard/master/adguard_dns_user_filter.txt
+
 -->Others
 https://adaway.org/hosts.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/filter/Spotify-AdBlock.txt
